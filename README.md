@@ -1,4 +1,4 @@
-# LLM-integrated-chat project
+# BS-LLM-WebUI project (Multi-model AI Chat platform)
 
 ## Description
 
